@@ -7,6 +7,9 @@ I developed a comprehensive project in Power BI, creating multiple dashboard and
 ## 📌 Overview
 This project presents a detailed analysis of Amazon Prime content, exploring genres, user preferences, ratings, and watch durations and Built using Power BI, it helps identify content trends and viewer behavior for strategic decision-making.
 
+## Dataset used 
+ - <a href="https://github.com/Subhadhanush-R/Amazonprime-Analysis/blob/main/Amazonprime_Analysis.pbix">Dataset</a>
+
 ## 📊 Key Features
 ✅ Content Insights by Genre
 * Breakdown of movies and shows by genre to understand popular content categories.
