@@ -9,7 +9,7 @@ This project presents a detailed analysis of Amazon Prime content, exploring gen
 
 ## 📊 Key Features
 ✅ Content Insights by Genre
-Breakdown of movies and shows by genre to understand popular content categories.
+* Breakdown of movies and shows by genre to understand popular content categories.
 
 ✅ Viewer Engagement
 * Analysis of watch duration and user behavior to gauge audience interest.
@@ -34,4 +34,4 @@ Breakdown of movies and shows by genre to understand popular content categories.
 ## 👨‍💻 Author
 Subhadhanush 📌 Data Analyst Enthusiast | Power BI Learner | Dashboard Creator
 
-🌟 If you like this project, don’t forget to ⭐ the repo!
+## 🌟 If you like this project, don’t forget to ⭐ the repo!
